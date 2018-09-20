@@ -1,0 +1,129 @@
+main.css
+
+header{
+	height: 150px;
+	width: 130px;
+	border:5px;
+	background-color:#4283f4;
+	margin-top: 150px;
+}
+
+span{
+	color: green;
+}
+
+a:link:{
+	color: blue;
+}
+
+a:visited{
+	color: #c3ccc9;
+}
+
+a:hover{
+	color: #ba7171;
+}
+
+a:active{
+	color: #000000;
+}
+
+footer{
+	height: 30px;
+	width: 120px;
+	border:5px;
+	background-color:#4283f4;
+}
+
+.navitem{
+	list-style-type: none;
+	display: inline;
+	padding: 2em;
+}
+
+.p{
+	color:purple;
+}
+
+.red{
+	color:red;
+	font-size:1.11em;
+}	
+
+.clearfloat{
+	clear: right;
+}
+
+#body{
+	background-color:orange;
+}
+
+#navmenu{
+	height: 150px;
+	width:600px;
+	margin-left:27%;
+}
+
+#catlist{
+	width: 30%;
+}
+
+#catposter{
+	float: right;
+	width: 23%;
+	margin-top: -175px;
+}
+
+#catpic{
+	margin-bottom: 30px;
+}
+
+#quiz{
+	padding: 3em;
+}
+
+#button{
+	height:20px;
+	width:100px;
+	color:white;
+	background-color:black;
+	border-radius:15px;
+}
+
+#blood{
+	font-size: 21em;
+	position: fixed;
+	top: -250px;
+	left:23px;
+}
+
+#positions1{
+	height: 150px;
+	width: 150px;
+	background-color: purple;
+	position: absolute;
+	left: 20%;
+	top: 50%;
+}
+
+#positions2{
+	height: 150px;
+	width: 150px;
+	background-color: #ff0059;
+	position: absolute;
+	left: 45%;
+	top: 50%;
+}
+
+#death{
+	height: 150px;
+	width: 150px;
+	background-color: #bf0101;
+	position: absolute;
+	left: 70%;
+	top: 50%;
+}
+
+#body1{
+	height: 2048px;
+}
